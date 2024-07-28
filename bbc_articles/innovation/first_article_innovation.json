@@ -1,0 +1,1559 @@
+{
+    "sections": [
+        {
+            "type": "virginia",
+            "content": [
+                {
+                    "title": "How Olympic windsurfers are fighting invasive alien species",
+                    "href": "/future/article/20240723-the-olympic-windsurfers-and-rowers-fighting-invasive-species",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1722160800000,
+                        "firstUpdated": 1722160800000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Invasive non-native species are thriving, but some Olympic sailors, windsurfers and rowers are helping to combat this destructive flora and fauna.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jd434h.jpg",
+                                "altText": "Alice Read reaches for the water as she windsurfs (Credit: Max Miechowski)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        },
+                        "shouldEagerLoad": true
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240723-the-olympic-windsurfers-and-rowers-fighting-invasive-species"
+                },
+                {
+                    "title": "Watch: Astronauts enjoy zero-gravity Olympics",
+                    "href": "/news/videos/c047yyl51m1o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1722069377000,
+                        "firstUpdated": 1722069377000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "As the Olympics kicks off on earth, astronauts working on the International Space Station wish athletes well.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b2db/live/d97914c0-4bf0-11ef-8f0f-0577398c3339.jpg",
+                                "altText": "A woman, mimicking a weightlifter, pushes up a bar with two men on either end",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c047yyl51m1o"
+                },
+                {
+                    "title": "EU regulator rejects Alzheimer's drug lecanemab",
+                    "href": "/news/articles/crgm0v1ne08o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722013309000,
+                        "firstUpdated": 1722013309000,
+                        "topics": [
+                            "Europe"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It said the benefits of the treatment did not outweigh the risk of serious side effects.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/af72/live/469fa960-4b6a-11ef-9f97-0717312a807d.jpg",
+                                "altText": "A human brain being scanned in a neurology clinic",
+                                "width": 2014,
+                                "height": 1133
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crgm0v1ne08o"
+                },
+                {
+                    "title": "Actors go on strike over video games AI threat",
+                    "href": "/news/articles/c4ngy53qyq8o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721969068000,
+                        "firstUpdated": 1721966478000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The union has been in talks with big games studios, like Activision and Walt Disney, for 18 months.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1825/live/85a9a7f0-4b06-11ef-929b-397ea8ee9ca4.jpg",
+                                "altText": "Scene from Activision's Call of Duty: Black Ops 6. ",
+                                "width": 2745,
+                                "height": 1544
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c4ngy53qyq8o"
+                },
+                {
+                    "title": "What's behind the global self-storage boom?",
+                    "href": "/news/articles/c722xdddl4po",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721949462000,
+                        "firstUpdated": 1721949462000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Rising rents, e-commerce and available property are contributing to a boom in self-storage.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9524/live/5c526b30-3dcd-11ef-942f-576843d80371.jpg",
+                                "altText": "A woman pulls up the door of a self-storage locker",
+                                "width": 2214,
+                                "height": 1246
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c722xdddl4po"
+                },
+                {
+                    "title": "Tech Decoded: Sign up to our newsletter",
+                    "href": "https://cloud.email.bbc.com/techdecoded-newsletter-signup?&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=techdecoded&at_campaign_type=owned",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "customCard",
+                        "topics": []
+                    },
+                    "tags": [],
+                    "description": "Get timely, trusted tech news from BBC correspondents around the world, every Monday and Friday.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/raw/p0hdrsmy.jpg",
+                                "altText": "Tech Decoded: Sign up to our newsletter",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "custom-card:8cb10639-6768-41ba-8ccd-c5150dc4305a:5"
+                },
+                {
+                    "title": "Lawmaker uses AI voice clone to address Congress",
+                    "href": "/news/videos/c728q850e5do",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1721947779000,
+                        "firstUpdated": 1721947779000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Virginia Congresswoman Jennifer Wexton has a rare neurological condition that makes it difficult for her to speak.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/630f/live/a05c3930-4ad6-11ef-8f0f-0577398c3339.jpg",
+                                "altText": "Congresswoman Jennifer Waxton stands in front of a podium while looking at her iPad. She has a pen in her hand. To her right, there is a female staring at her.",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c728q850e5do"
+                },
+                {
+                    "title": "ChatGPT reveals search feature in Google challenge  ",
+                    "href": "/news/articles/c897qz1qex9o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721939496000,
+                        "firstUpdated": 1721937015000,
+                        "topics": []
+                    },
+                    "tags": [],
+                    "description": "OpenAI is working on adding new search powers to its artificial intelligence (AI) bot.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6255/live/7875d530-4abc-11ef-bb49-a36eaef82210.jpg",
+                                "altText": "a woman in a red cardigan looks at her phone",
+                                "width": 2121,
+                                "height": 1193
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c897qz1qex9o"
+                }
+            ],
+            "collectionId": "498936ef-3e07-4652-b1e0-7497bd8d3528",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 8,
+                "total": 100
+            },
+            "title": "",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "hawaii",
+            "content": [
+                {
+                    "title": "How your gut microbes shape your health",
+                    "href": "/reel/video/p0jc5bmh/how-your-gut-microbes-shape-your-health",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1721869200000,
+                        "firstUpdated": 1721869200000,
+                        "topics": [
+                            "Health Decoded"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A bustling community of trillions of cells influence almost every aspect of our life.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jdrwf5.jpg",
+                                "altText": "Health Decoded",
+                                "width": 1920,
+                                "height": 1080,
+                                "duration": 120
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0jc5bmh"
+                },
+                {
+                    "title": "Is cold water swimming good for you?",
+                    "href": "/reel/video/p0j8zdrh/is-cold-water-swimming-good-for-you-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1720785600000,
+                        "firstUpdated": 1720785600000,
+                        "topics": [
+                            "Science & Health"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "We explore the range of health benefits linked to cold water swimming.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jb17pf.jpg",
+                                "altText": "Health Decoded pt4",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0j8zdrh"
+                },
+                {
+                    "title": "Why women 'need less exercise than men'",
+                    "href": "/reel/video/p0j6d1jc/why-women-need-less-exercise-than-men-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1719568579000,
+                        "firstUpdated": 1719568579000,
+                        "topics": [
+                            "Science & Health"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "There is a gender gap in just how much exercise we need for healthy hearts.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0j72klv.jpg",
+                                "altText": "Health Decoded pt3 copy",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0j6d1jc"
+                },
+                {
+                    "title": "How 'tapping therapy' can help calm your mind",
+                    "href": "/reel/video/p0j401h6/how-tapping-therapy-can-help-calm-your-mind",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1718353355000,
+                        "firstUpdated": 1718353355000,
+                        "topics": [
+                            "Health Decoded",
+                            "Science & Health"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A simple on the go therapy could help ease anxiety, stress and reduce the impact of traumatic memories.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0j45yl6.jpg",
+                                "altText": "Healthdecoded Tapping Therapy",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0j401h6"
+                },
+                {
+                    "title": "Can this mineral help reduce anxiety?",
+                    "href": "/reel/video/p0j0yff3/can-this-mineral-help-reduce-anxiety-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1717232075000,
+                        "firstUpdated": 1717232075000,
+                        "topics": [
+                            "Science & Health"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "There's a lot of hype around magnesium and its ability to alleviate anxiety and depression.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0j1hmfz.jpg",
+                                "altText": "Health Decoded contept art",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0j0yff3"
+                }
+            ],
+            "collectionId": "2667c619-3fa1-4ff2-96be-470bd58bd0ec",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 20,
+                "total": 5
+            },
+            "title": "Health Decoded",
+            "disableAutoPlay": true,
+            "innerCollections": [],
+            "isAutoPlayDisabled": true
+        },
+        {
+            "type": "advertisement",
+            "model": {
+                "adType": "horizontal"
+            },
+            "incrementedType": "mid_1"
+        },
+        {
+            "type": "oregon",
+            "content": [
+                {
+                    "title": "The bizarre history of internet outages",
+                    "href": "/future/article/20240724-the-day-the-internet-turned-off",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721901600000,
+                        "firstUpdated": 1721901600000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "In a world where a single point of failure can throw our machines into chaos, everything from sharks to authoritarian governments to old ladies have brought the web to its knees.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jdbybk.jpg",
+                                "altText": "Woman celebrating Y2K (Credit: Getty Images)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240724-the-day-the-internet-turned-off"
+                }
+            ],
+            "collectionId": "b3553813-4031-48dc-ab2b-b06b8f188788",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 1,
+                "total": 100
+            },
+            "title": " Features",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "nevada",
+            "content": [
+                {
+                    "title": "How America's porn wars could change your internet",
+                    "href": "/future/article/20240723-how-the-american-war-on-porn-could-change-your-internet",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721833200000,
+                        "firstUpdated": 1721833200000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Papers please: for millions of Americans, accessing online pornography now requires a government ID. It could have global implications for the future of the web.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jd51tt.jpg",
+                                "altText": "Graphic of man in front of red white and blue striped screen (Credit: Serenity Strull/BBC/Getty Images)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240723-how-the-american-war-on-porn-could-change-your-internet"
+                },
+                {
+                    "title": "The lost Olympic sport of 'distance plunging'",
+                    "href": "/future/article/20240720-the-extinct-olympic-sport-that-was-the-dullest-of-all-time",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721815200000,
+                        "firstUpdated": 1721815200000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "In the plunge for distance, any form of exertion was strictly forbidden.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jckvsn.jpg",
+                                "altText": "Swimmers in a pool(Credit: Dave Parrington)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240720-the-extinct-olympic-sport-that-was-the-dullest-of-all-time"
+                },
+                {
+                    "title": "The hidden benefits of volunteering",
+                    "href": "/future/article/20240723-how-volunteer-social-prescribing-could-help-with-pain-and-boost-health",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721743200000,
+                        "firstUpdated": 1721743200000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "In a bid to improve health and wellbeing, social prescriptions can cover everything from volunteering and art classes to support with household bills. But do they really work?",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jd26yy.jpg",
+                                "altText": "A female volunteer helps to sort clothes with group of people (Credit: Getty)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240723-how-volunteer-social-prescribing-could-help-with-pain-and-boost-health"
+                },
+                {
+                    "title": "Want to live a long life? Start prioritising friends",
+                    "href": "/future/article/20240722-why-your-friends-make-you-live-longer",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721728800000,
+                        "firstUpdated": 1721728800000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Your social network may influence your health as much as your exercise routine.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jcz5yy.jpg",
+                                "altText": "Three women running (Credit: Getty Images)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240722-why-your-friends-make-you-live-longer"
+                },
+                {
+                    "title": "Why you are probably sitting for too long",
+                    "href": "/future/article/20240722-why-you-are-probably-sitting-down-for-too-long",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721653560000,
+                        "firstUpdated": 1721653560000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Sitting down is ingrained in most peoples' days. But staying sedentary for too long can increase the risk of serious health conditions like cardiovascular disease and type 2 diabetes.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jcwm61.jpg",
+                                "altText": "Two people sit in deck chairs surrounded by water (Credit: Getty Images)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240722-why-you-are-probably-sitting-down-for-too-long"
+                },
+                {
+                    "title": "Summer surge: why Covid-19 isn't yet seasonal",
+                    "href": "/future/article/20240719-why-covid-19-is-spreading-this-summer",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721552467000,
+                        "firstUpdated": 1721552467000,
+                        "topics": [
+                            "Future"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Covid-19 doesn't follow normal seasonal patterns, like other respiratory viruses \u2013 waves of infection can happen at any time of year.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jchh2w.jpg",
+                                "altText": "Women in protective Covid-19 masks cool themselves with fans in Tokyo, July 2022 (Credit: Getty Images)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:future/article/20240719-why-covid-19-is-spreading-this-summer"
+                }
+            ],
+            "collectionId": "b3553813-4031-48dc-ab2b-b06b8f188788",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 6,
+                "total": 99
+            },
+            "title": "",
+            "disableAutoPlay": false,
+            "adBlock": {
+                "type": "advertisement",
+                "model": {
+                    "adType": "vertical"
+                },
+                "incrementedType": "sid_1"
+            },
+            "innerCollections": []
+        },
+        {
+            "type": "texas",
+            "content": [
+                {
+                    "title": "Walking through time at the Natural History Museum",
+                    "href": "/news/videos/crg4340lvvvo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1721208372000,
+                        "firstUpdated": 1721208372000,
+                        "topics": [
+                            "Climate"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A new bronze diplodocus and garden exploring the origins of time opens at the world-famous museum.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f539/live/743b01b0-4419-11ef-9e1c-3b4a473456a6.jpg",
+                                "altText": "A bronze diplodocus statue at the Natural History Museum",
+                                "width": 3410,
+                                "height": 1918
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crg4340lvvvo"
+                },
+                {
+                    "title": "Moment Ariane-6 rocket blasts into space on first flight",
+                    "href": "/news/videos/cw8y6x874x9o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1720578669000,
+                        "firstUpdated": 1720578201000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The vehicle set off from a launchpad in French Guiana on a demonstration mission.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/75bb/live/39c558d0-3e5d-11ef-9e1c-3b4a473456a6.jpg",
+                                "altText": "Column of fire after rocket sets off from launch pad",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cw8y6x874x9o"
+                },
+                {
+                    "title": "High winds and heavy rain as Caribbean hit by hurricane",
+                    "href": "/news/videos/c3g9n9mywkwo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1719881578000,
+                        "firstUpdated": 1719881578000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Hurricane Beryl has made landfall with floods in Barbados, St Vincent and the Grenadines and Grenada.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b477/live/541a8850-380d-11ef-bbe0-29f79e992ddd.jpg",
+                                "altText": "High winds and waves on coast",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c3g9n9mywkwo"
+                },
+                {
+                    "title": "UN arms embargo violated in Sudan, investigation finds",
+                    "href": "/news/videos/c3gg30w14w1o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1718364864000,
+                        "firstUpdated": 1718364864000,
+                        "topics": [
+                            "World"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The BBC has found evidence that both the Sudanese army and RSF have used foreign drones in the war.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ebc5/live/67a80480-2a41-11ef-a1fa-1b739acc6f54.jpg",
+                                "altText": "A damaged car and houses in Omdurman, March 2024",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c3gg30w14w1o"
+                },
+                {
+                    "title": "Astronauts in Boeing capsule arrive at space station",
+                    "href": "/news/videos/c8vvrrv1mg1o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1717738234000,
+                        "firstUpdated": 1717738234000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Nasa\u2019s Suni Williams and Butch Wilmore were welcomed with hugs and applause, after docking successfully.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0e7e/live/103fe920-248c-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Astronaut Suni Williams arrives at International Space Station",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c8vvrrv1mg1o"
+                },
+                {
+                    "title": "Why scientists are using a crossbow to study whales",
+                    "href": "/news/videos/c0kkpqljdlko",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1717718516000,
+                        "firstUpdated": 1717718516000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Researchers use the device to take remote biopsies from wild humpback whales to monitor their health.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/54af/live/6d13df60-242a-11ef-baa7-25d483663b8e.jpg",
+                                "altText": "Humpback whale's tail",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c0kkpqljdlko"
+                },
+                {
+                    "title": "How a kettle could help keep older people safe",
+                    "href": "/news/videos/cp33xjj5x55o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716959671000,
+                        "firstUpdated": 1716934746000,
+                        "topics": [
+                            "NE, Orkney & Shetland"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "AI linked to everyday items could alert family members if elderly relatives have diverted from their normal morning routine.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/dfaa/live/727d0060-185b-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Allan Fraser",
+                                "width": 1570,
+                                "height": 883
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cp33xjj5x55o"
+                },
+                {
+                    "title": "Duckling family march to safety at Hardwick Hall",
+                    "href": "/news/videos/clmmxv7zyy5o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716619499000,
+                        "firstUpdated": 1716619499000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The annual duck march has been a tradition at Sedgefield\u2019s Hardwick Hall Hotel for the past 24 years.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cf52/live/b4fbe920-1a62-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Female duck and chicks",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:clmmxv7zyy5o"
+                },
+                {
+                    "title": "Video captures new mountain lion spotted in Hollywood",
+                    "href": "/news/videos/cldd29pqpx9o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716570170000,
+                        "firstUpdated": 1716570170000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "While the giant cats are native to California, it is rare for them to make their way into the city of Los Angeles.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a26d/live/4b95b360-19e2-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Mountain lion in Los Angeles",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cldd29pqpx9o"
+                },
+                {
+                    "title": "Malnourished sea lion jumps into rowing boat",
+                    "href": "/news/videos/cp33nx65d1mo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716492131000,
+                        "firstUpdated": 1716492131000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The animal stayed in the boat for over 15 minutes and was later taken to get medical care.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2f88/live/38aef320-1937-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Sea lion on row boat",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cp33nx65d1mo"
+                },
+                {
+                    "title": "Rare footage shows deep-sea squid attacking camera",
+                    "href": "/news/science-environment-69016403",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715960362000,
+                        "firstUpdated": 1715839698000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Watch video of the super-fast Dana squid getting a close-up 1km below the Pacific Ocean's surface.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/14066/production/_133322028_squid.jpg",
+                                "altText": "Squid attacking camera",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:88b22bbc-37d6-4b68-9068-a96f2135af97"
+                },
+                {
+                    "title": "India election: BBC journalist gets a call from AI-generated Trump",
+                    "href": "/news/world-asia-india-68988192",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715818257000,
+                        "firstUpdated": 1715818257000,
+                        "topics": [
+                            "India"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The BBC got to see just how easy it is to create a fake phone call between two people.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0399/production/_133312900_p0hy47w6.jpg",
+                                "altText": "BBC reporter speaks to Donald Trump via AI",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:85df6e6b-739b-4a1a-8bba-e8e0248782eb"
+                },
+                {
+                    "title": "BBC asks if quality of water for bathing really is improving",
+                    "href": "/news/science-environment-69003813",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715601437000,
+                        "firstUpdated": 1715601437000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "BBC environment correspondent talks to water minister about bathing water quality",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2030/production/_133304280_p0hxqnz9.jpg",
+                                "altText": "BBC Environment Correspondent Jonah Fisher asks Water Minister Robbie Moore",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:8beac1b4-7e6a-4af6-a84b-7e68412bb948"
+                },
+                {
+                    "title": "This is what it's like inside a black hole",
+                    "href": "/news/science-environment-68991593",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715370464000,
+                        "firstUpdated": 1715370464000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A black hole is a region of space with such strong gravity not even light can escape.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3763/production/_133297141_p0hxbx4c.jpg",
+                                "altText": "Black hole",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:fdf4f931-1a24-4635-bff1-3be0ab8c81ee"
+                },
+                {
+                    "title": "'If I were a barnacle I'd be worried'",
+                    "href": "/news/science-environment-68972263",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715133647000,
+                        "firstUpdated": 1715133647000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "BBC News Climate Editor Justin Rowlatt talks to a marine biologist about our warming oceans",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7484/production/_133282892_p0hwk1nn.jpg",
+                                "altText": "BBC News Climate Editor Justin Rowlatt talks to a marine biologist about our warming oceans",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:8265fe64-cf23-41c0-a037-232cb68805ee"
+                },
+                {
+                    "title": "BBC Verify looks at fake AI-generated Met Gala images",
+                    "href": "/news/world-68973448",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715101546000,
+                        "firstUpdated": 1715101546000,
+                        "topics": [
+                            "World"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Fake pictures of Katy Perry and other artists at the Met Gala went viral on social media.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/A74C/production/_133282824_p0hwktbz.jpg",
+                                "altText": "A picture of Katy Perry next to a picture of Marianna Spring",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:65a38629-d05a-4291-b176-f9a1f18c47e7"
+                },
+                {
+                    "title": "Family of foxes enjoy garden playtime",
+                    "href": "/news/videos/c9rz6xzq7nno",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715072769000,
+                        "firstUpdated": 1715072769000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Aldridge gardener captures fox and five kits on camera shortly after mowing his lawn.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c322/live/b2a7dd30-0c4f-11ef-82e8-cd354766a224.jpg",
+                                "altText": "Family of foxes",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c9rz6xzq7nno"
+                },
+                {
+                    "title": "China launches rocket to far side of the Moon",
+                    "href": "/news/science-environment-68950536",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1714731040000,
+                        "firstUpdated": 1714731040000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The mission, billed a world first, aims to bring around two kilograms of lunar samples back to Earth.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6316/production/_133266352_p0hvvn85.jpg",
+                                "altText": "Rocket taking off",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:0c7073d5-72b1-4155-a35b-0a350524be5e"
+                },
+                {
+                    "title": "Watch: Wild orangutan treats his own wounds",
+                    "href": "/news/science-environment-68945873",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1714663144000,
+                        "firstUpdated": 1714663144000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It is the first time a creature in the wild has been seen using a medicinal plant to treat a wound.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/15776/production/_133262978_p0hvnr3y.jpg",
+                                "altText": "Orangutan with large bloody wound just below right eye",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:c1fdea2c-fb19-4f3b-b716-3d2aa94070e5"
+                },
+                {
+                    "title": "What makes a Neanderthal?",
+                    "href": "/news/science-environment-68935646",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1714604952000,
+                        "firstUpdated": 1714604952000,
+                        "topics": [
+                            "Science & Environment"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Palaeoanthropologist Emma Pomeroy describes the main features of the Shanidar Z Neanderthal skull.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/17F6B/production/_133255189_p0hv8t4j.jpg",
+                                "altText": "Shanidar Z skull",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:f235ea18-05bb-41a8-8546-b8a39b414163"
+                }
+            ],
+            "collectionId": "37314fd8-c27d-4bbf-a52c-eaa0e7116e83",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 20,
+                "total": 99
+            },
+            "title": "Watch",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "advertisement",
+            "model": {
+                "adType": "horizontal"
+            },
+            "incrementedType": "mid_2"
+        },
+        {
+            "type": "alaska",
+            "content": [
+                {
+                    "title": "CrowdStrike boss says 97% of crashed systems fixed",
+                    "href": "/news/articles/crgm07zjj2go",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721986740000,
+                        "firstUpdated": 1721986740000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It's estimated 8.5 million devices were disabled by a faulty update from the cyber-security firm.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/82a6/live/e0a80020-4b2e-11ef-8751-65f76fca0fc4.jpg",
+                                "altText": "A phone with the red CrowdStrike logo of a bird of prey, placed in front of a PC screen displaying a blue error message",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crgm07zjj2go"
+                },
+                {
+                    "title": "CrowdStrike backlash over $10 apology voucher",
+                    "href": "/news/articles/ce58p0048r0o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721901419000,
+                        "firstUpdated": 1721820751000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Cybersecurity firm is branded a \"clown show\" for gesture after an update caused widespread disruption.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/82e8/live/b8e79af0-4a75-11ef-9ce5-f32874646ca6.jpg",
+                                "altText": "Stock image of a female office worker looking at her PC screen with an exasperated expression",
+                                "width": 1996,
+                                "height": 1123
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:ce58p0048r0o"
+                },
+                {
+                    "title": "Instagram removes 63,000 sextortion accounts in Nigeria",
+                    "href": "/news/articles/cd1jpdg4endo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721838859000,
+                        "firstUpdated": 1721838859000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The scammers were posing as young women online to trick people into sending sexually explicit material.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9360/live/cf663e90-49d9-11ef-a1b3-45005892cdfd.jpg",
+                                "altText": "A girl looks sadly at her laptop. She is silhouetted to highlight the despair felt by those in this situation. ",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cd1jpdg4endo"
+                },
+                {
+                    "title": "Cyber-security firm rejects $23bn Google takeover",
+                    "href": "/news/articles/c3gdlng47k7o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721749054000,
+                        "firstUpdated": 1721749054000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "In an internal memo to staff, Wiz's founder and chief executive said he was \"flattered\" by the offer.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5aa0/live/6859bfa0-48fe-11ef-8b75-d7877c28e64f.jpg",
+                                "altText": "A man speaking on-stage at an event. He's wearing a blue hoody and has a smart beard and hairstyle",
+                                "width": 5351,
+                                "height": 3010
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c3gdlng47k7o"
+                },
+                {
+                    "title": "Google U-turn over long-running plan to ditch cookies",
+                    "href": "/news/articles/c51y7q0qv7eo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721730986000,
+                        "firstUpdated": 1721728962000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The UK\u2019s privacy watchdog said it was 'disappointed' by the decision not to block internet tracking.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/47ff/live/57a9b840-48d1-11ef-8465-0320941b9104.jpg",
+                                "altText": "A woman using a laptop while sitting at a table",
+                                "width": 2056,
+                                "height": 1157
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c51y7q0qv7eo"
+                },
+                {
+                    "title": "Influencers driving extreme misogyny, say police",
+                    "href": "/news/articles/cne4vw1x83po",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721708032000,
+                        "firstUpdated": 1721708032000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A new report by senior police says violence against women and girls has become a \"national emergency\".",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0dad/live/543c0790-48b7-11ef-b74c-bb483a802c97.jpg",
+                                "altText": " Influencer Andrew Tate talks to media in Romania",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cne4vw1x83po"
+                },
+                {
+                    "title": "CrowdStrike IT outage affected 8.5 million Windows devices, Microsoft says",
+                    "href": "/news/articles/cpe3zgznwjno",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721497603000,
+                        "firstUpdated": 1721497603000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It\u2019s the first time that a number has been put on the glitch that is still causing problems around the world.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2bda/live/f864fb00-46bf-11ef-93d9-870ecb62df8e.jpg",
+                                "altText": "people at Melbourne airport",
+                                "width": 1000,
+                                "height": 562
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cpe3zgznwjno"
+                },
+                {
+                    "title": "NHS warns of GP disruption next week after IT outage",
+                    "href": "/news/articles/cql841plqg4o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721494713000,
+                        "firstUpdated": 1721482299000,
+                        "topics": [
+                            "Health"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Healthcare IT systems are coming back online - but GPs face a growing appointments backlog.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4738/live/afcabf70-469b-11ef-9e1c-3b4a473456a6.jpg",
+                                "altText": "A stock image of a GP showing a patient a paper prescription.",
+                                "width": 4000,
+                                "height": 2249
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cql841plqg4o"
+                },
+                {
+                    "title": "Scam warning as fake emails and websites target users after outage",
+                    "href": "/news/articles/cq5xy12pynyo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721476244000,
+                        "firstUpdated": 1721476244000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Agencies in the UK and Australia are warning people to be vigilant to fake emails, calls and websites.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/e610/live/14220950-468e-11ef-ac12-f16ca979d7d8.jpg",
+                                "altText": "A blue error screen can be seen on a checkout till at a supermarket in Australia. It is in the foreground, and behind it, a woman can be seen paying at another till.",
+                                "width": 1814,
+                                "height": 1020
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cq5xy12pynyo"
+                }
+            ],
+            "collectionId": "092c7c94-aa9b-4933-9349-eb942b3bde77",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 9,
+                "total": 98
+            },
+            "title": "More innovation",
+            "disableAutoPlay": false,
+            "adBlock": {
+                "type": "advertisement",
+                "model": {
+                    "adType": "horizontal"
+                },
+                "incrementedType": "mid_3"
+            },
+            "innerCollections": []
+        }
+    ],
+    "hideBannerAdvert": false,
+    "isPreCurated": false,
+    "slug": "innovation",
+    "title": "Innovation",
+    "seo": {
+        "title": "BBC Innovation | Technology, Health, Environment, AI",
+        "description": "BBC Innovation brings you the latest in Technology news and coverage from around the world, including health, environment, AI, and more",
+        "openGraph": {
+            "title": "BBC Innovation | Technology, Health, Environment, AI",
+            "description": "BBC Innovation brings you the latest in Technology news and coverage from around the world, including health, environment, AI, and more"
+        },
+        "twitter": {
+            "title": "BBC Innovation | Technology, Health, Environment, AI",
+            "description": "BBC Innovation brings you the latest in Technology news and coverage from around the world, including health, environment, AI, and more"
+        },
+        "hreflang": {
+            "en-gb": "https://www.bbc.co.uk/news/technology"
+        }
+    }
+}

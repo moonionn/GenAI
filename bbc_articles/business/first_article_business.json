@@ -1,0 +1,1908 @@
+{
+    "sections": [
+        {
+            "type": "virginia",
+            "content": [
+                {
+                    "title": "Venezuela's economy runs on oil - and music",
+                    "href": "/news/articles/c51y9r0jgxno",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722149019000,
+                        "firstUpdated": 1722149019000,
+                        "topics": [
+                            "Latin America"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Venezuela's battered economy is one of the key battlegrounds in Sunday's presidential election.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/213b/live/e7900010-49bf-11ef-acea-755e48e79f51.jpg",
+                                "altText": "Oil pumps in Maracaibo, Venezuela, on 12 July 2024",
+                                "width": 831,
+                                "height": 468
+                            }
+                        },
+                        "shouldEagerLoad": true
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c51y9r0jgxno"
+                },
+                {
+                    "title": "Trump courts crypto industry votes and campaign donations",
+                    "href": "/news/articles/cne4n2xdylvo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722119115000,
+                        "firstUpdated": 1722119115000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Cryptocurrency has emerged as a key political battleground for Donald Trump and Republicans ",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/da53/live/9f342010-4c9b-11ef-b2d2-cdb23d5d7c5b.jpg",
+                                "altText": "Trump speaking at the event",
+                                "width": 1906,
+                                "height": 1072
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cne4n2xdylvo"
+                },
+                {
+                    "title": "France trains cancelled as hunt for vandals continues",
+                    "href": "/news/articles/cy08dp4kl9mo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722083556000,
+                        "firstUpdated": 1722052286000,
+                        "topics": [
+                            "Europe"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Thousands more passengers could face delays or cancellations after an arson attack on France's train network on Friday.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3d6c/live/bc3714c0-4bcd-11ef-b2d2-cdb23d5d7c5b.jpg",
+                                "altText": "Eurostar",
+                                "width": 1999,
+                                "height": 1125
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cy08dp4kl9mo"
+                },
+                {
+                    "title": "CrowdStrike boss says 97% of crashed systems fixed",
+                    "href": "/news/articles/crgm07zjj2go",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721986740000,
+                        "firstUpdated": 1721986740000,
+                        "topics": [
+                            "Technology"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It's estimated 8.5 million devices were disabled by a faulty update from the cyber-security firm.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/82a6/live/e0a80020-4b2e-11ef-8751-65f76fca0fc4.jpg",
+                                "altText": "A phone with the red CrowdStrike logo of a bird of prey, placed in front of a PC screen displaying a blue error message",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crgm07zjj2go"
+                },
+                {
+                    "title": "Airbus boss admits long delays in making aircraft",
+                    "href": "/news/articles/cd16pv097pxo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721987502000,
+                        "firstUpdated": 1721987502000,
+                        "topics": [
+                            "Bristol"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The plane maker has sold dozens of new jets at the Farnborough airshow, but is struggling to keep up with demand.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4caf/live/b0b53960-4b23-11ef-96b2-2701749facf2.jpg",
+                                "altText": "Airbus A321 jet",
+                                "width": 3263,
+                                "height": 1836
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cd16pv097pxo"
+                },
+                {
+                    "title": "EU regulator rejects Alzheimer's drug lecanemab",
+                    "href": "/news/articles/crgm0v1ne08o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722013309000,
+                        "firstUpdated": 1722013309000,
+                        "topics": [
+                            "Europe"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It said the benefits of the treatment did not outweigh the risk of serious side effects.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/af72/live/469fa960-4b6a-11ef-9f97-0717312a807d.jpg",
+                                "altText": "A human brain being scanned in a neurology clinic",
+                                "width": 2014,
+                                "height": 1133
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crgm0v1ne08o"
+                },
+                {
+                    "title": "The rise of creators making weddings Insta-worthy",
+                    "href": "/news/articles/ceqdg56lw64o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722060764000,
+                        "firstUpdated": 1722030788000,
+                        "topics": [
+                            "Wales"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A growing number of couples are booking a content creators to capture their special day.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/078e/live/4460ada0-450e-11ef-b74c-bb483a802c97.jpg",
+                                "altText": "Sophie on her wedding day with her daughter ",
+                                "width": 1536,
+                                "height": 864
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:ceqdg56lw64o"
+                },
+                {
+                    "title": "Ryan Reynolds auctions Deadpool gym equipment for charity",
+                    "href": "/news/articles/cd1xdqxx9z5o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722002194000,
+                        "firstUpdated": 1722000985000,
+                        "topics": [
+                            "Wales"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Deadpool & Wolverine star Ryan Reynolds has donated gym equipment used during the film's production to a Welsh charity.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/19b2/live/d35702a0-4b4b-11ef-89b3-9daa9b93ebd2.jpg",
+                                "altText": "Ryan Reynolds and Hugh Jackman form a heart with their hands at the Deadpool premiere",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cd1xdqxx9z5o"
+                }
+            ],
+            "collectionId": "daa2a2f9-0c9e-4249-8234-bae58f372d82",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 8,
+                "total": 48
+            },
+            "title": "",
+            "disableAutoPlay": false,
+            "adBlock": {
+                "type": "advertisement",
+                "model": {
+                    "adType": "vertical"
+                },
+                "incrementedType": "sid_1"
+            },
+            "innerCollections": []
+        },
+        {
+            "type": "texas",
+            "content": [
+                {
+                    "title": "Playing with FIRE: How to quit work and retire in your 30s",
+                    "href": "/reel/video/p09qwdp6/playing-with-fire-how-to-quit-work-and-retire-in-your-30s",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1713859676000,
+                        "firstUpdated": 1627851488000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A personal finance strategy popular among millennials is helping them to quit their job and retire decades early.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p09qx1pf.jpg",
+                                "altText": "The FIRE method: How to retire in your 30s",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p09qwdp6"
+                },
+                {
+                    "title": "Boomerang CEOs: Do they ever succeed?",
+                    "href": "/reel/video/p0h9q7kj/boomerang-ceos-do-they-ever-succeed-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1707409935000,
+                        "firstUpdated": 1707389013000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Five years after being ousted from WeWork, Adam Neumann wants to re-buy the now-bankrupt business.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0h9v82v.jpg",
+                                "altText": "Getty Images 1079941752",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0h9q7kj"
+                },
+                {
+                    "title": "How industry leaders transformed their career",
+                    "href": "/reel/video/p0h4hbs4/how-industry-leaders-transformed-their-career",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1705489841000,
+                        "firstUpdated": 1705104026000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The BBC's Katty Kay has spoken to successful change-makers to ask what made them pivot in their career.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0h4hkj3.jpg",
+                                "altText": "How industry leaders transformed their career",
+                                "width": 2716,
+                                "height": 1527
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0h4hbs4"
+                },
+                {
+                    "title": "Women were the original beer brewers - what changed?",
+                    "href": "/reel/video/p0gwgmz8/women-were-the-original-beer-brewers-what-changed-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1701907206000,
+                        "firstUpdated": 1701907206000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Today, the beer industry is male-dominated, but it wasn't always so.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0gwh0zs.jpg",
+                                "altText": "WATCH: Women were the original beer brewers - what changed?",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0gwgmz8"
+                },
+                {
+                    "title": "How waiting alters our perception of time",
+                    "href": "/reel/video/p09cdyyd/how-waiting-alters-our-perception-of-time",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699992230000,
+                        "firstUpdated": 1619622476000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Expert advice on how to get through a waiting period.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p09g4wdd.jpg",
+                                "altText": "A woman waiting",
+                                "width": 2124,
+                                "height": 1194
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p09cdyyd"
+                },
+                {
+                    "title": "Do the super-rich 'deserve' their wealth?",
+                    "href": "/reel/video/p0fv01m1/do-the-super-rich-deserve-their-wealth-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699991677000,
+                        "firstUpdated": 1686728346000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Should there be a cap on billionaires' wealth and their inheritances?",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0fv1l9m.jpg",
+                                "altText": "How much wealth is too much?",
+                                "width": 2057,
+                                "height": 1157
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0fv01m1"
+                },
+                {
+                    "title": "Four simple hacks to succeed in every conversation",
+                    "href": "/reel/video/p098mgm9/four-simple-hacks-to-succeed-in-every-conversation",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699991451000,
+                        "firstUpdated": 1615325521000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "A career coach, a choreographer, a chef and a dragon boat captain offer advice on giving critical feedback.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0998b43.jpg",
+                                "altText": "How to become the person everyone comes to for advice",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p098mgm9"
+                },
+                {
+                    "title": "Solo and hybrid work: Navigating our future and new normal",
+                    "href": "/reel/video/p09p4p1r/solo-and-hybrid-work-navigating-our-future-and-new-normal",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699991404000,
+                        "firstUpdated": 1626116435000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Covid-19 reshaped the way we live and work. We rethink solo working and explore the future of work-life.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p09p76jh.jpg",
+                                "altText": "Rethinking solo and hybrid working",
+                                "width": 2121,
+                                "height": 1414
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p09p4p1r"
+                },
+                {
+                    "title": "Can supersonic flight ever be sustainable?",
+                    "href": "/reel/video/p0c5mvlh/can-supersonic-flight-ever-be-sustainable-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699990627000,
+                        "firstUpdated": 1652105571000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "How a new era of quiet, net zero supersonic airliners could revolutionise the aviation industry.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0c65x2s.jpg",
+                                "altText": "Winging It Ep 1 WEB FINAL UPDATE mp4 00 07 42 10 Still001",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0c5mvlh"
+                },
+                {
+                    "title": "Commencement speech: The surprising pitfall of your passions",
+                    "href": "/reel/video/p0fq5w2r/commencement-speech-the-surprising-pitfall-of-your-passions",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699990379000,
+                        "firstUpdated": 1684953293000,
+                        "topics": [
+                            "Future of business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Students are graduating in the US this week. The commencement speeches might lead them into questionable choices.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0fqmwc6.jpg",
+                                "altText": "Graduation: The surprising pitfalls of following your passions",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0fq5w2r"
+                },
+                {
+                    "title": "ASMR: How whispering took over the internet",
+                    "href": "/reel/video/p0d95c27/asmr-how-whispering-took-over-the-internet",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699976998000,
+                        "firstUpdated": 1672747286000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "We meet the creators behind the current ASMR boom.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0dvtpj8.jpg",
+                                "altText": "Getty Images 523511394",
+                                "width": 2097,
+                                "height": 1179
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0d95c27"
+                },
+                {
+                    "title": "A desk full of descriptions for your work colleagues",
+                    "href": "/reel/video/p0d20p52/a-desk-full-of-descriptions-for-your-work-colleagues",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699976949000,
+                        "firstUpdated": 1664270150000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "These are the long lost words you've been waiting for to describe your colleagues.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0d24lwt.jpg",
+                                "altText": "Colleagues sitting around a table",
+                                "width": 2115,
+                                "height": 1417
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0d20p52"
+                },
+                {
+                    "title": "Veterinarian suicide rates are very high. Why?",
+                    "href": "/reel/video/p0gkmzb8/veterinarian-suicide-rates-are-very-high-why-",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "reels",
+                        "lastUpdated": 1699976911000,
+                        "firstUpdated": 1698102007000,
+                        "topics": [
+                            "Work Culture"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Veterinarian professionals are committing suicide at a higher rate than the general population.\u00a0",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0gp7dn8.jpg",
+                                "altText": "The mental health crisis impacting the veterinary community",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:gnlvideoproject:video:p0gkmzb8"
+                }
+            ],
+            "collectionId": "6884db4f-4b0d-4ab6-add3-6c6916891dbe",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 20,
+                "total": 13
+            },
+            "title": "Watch",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "nevada",
+            "content": [
+                {
+                    "title": "Aly Raisman on competing at the highest level",
+                    "href": "/worklife/article/20240715-aly-raisman-interview-influential-katty-kay",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721052000000,
+                        "firstUpdated": 1721052000000,
+                        "topics": [
+                            "Worklife"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The decorated US gymnast opened up to the BBC's Katty Kay about blocking out the noise, trusting her training and her winning mindset.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jb1cf3.jpg",
+                                "altText": "Aly Raisman being interviewed by Katty Kay (Credit: BBC/Brit Perkins)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:worklife/article/20240715-aly-raisman-interview-influential-katty-kay"
+                },
+                {
+                    "title": "Jackie Joyner-Kersee's gold-medal attitude",
+                    "href": "/worklife/article/20240708-jackie-joyner-kersee-interview-influential-katty-kay",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1720449000000,
+                        "firstUpdated": 1720449000000,
+                        "topics": [
+                            "Worklife"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The retired athlete and hall-of-famer opened up to the BBC's Katty Kay about the challenges she faced on the road to the Olympics, and the winning mindset that saw her through them.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0j93rq3.jpg",
+                                "altText": "Katty Kay and Jackie Joyner-Kersee facing each other on chairs. The image is stylised with a purple wash over it, apart from Joyner-Kersee who is in full colour (Credit: BBC/ Scott Rovak)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:worklife/article/20240708-jackie-joyner-kersee-interview-influential-katty-kay"
+                },
+                {
+                    "title": "Olympic legend Lindsey Vonn explains the mindset of a winner",
+                    "href": "/worklife/article/20240701-lindsey-vonn-interview-influential-katty-kay",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1719835200000,
+                        "firstUpdated": 1719835200000,
+                        "topics": [
+                            "Worklife"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The decorated US downhill skier opens up to Katty Kay about the mental state that led her to gold medal victory and the \"hole\" that's left when her mind isn't on winning anymore.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0j84gl4.jpg",
+                                "altText": "Katty Kay and Lindsey Vonn (Credit: BBC/Nina Babel)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:worklife/article/20240701-lindsey-vonn-interview-influential-katty-kay"
+                }
+            ],
+            "collectionId": "90745f9b-f4ea-4209-8e94-245776896c93",
+            "sectionTitleProps": {
+                "link": "https://www.bbc.com/worklife/tags/influential-with-katty-kay",
+                "linkType": "internal"
+            },
+            "paginationData": {
+                "page": 0,
+                "pageSize": 3,
+                "total": 13
+            },
+            "title": "Influential with Katty Kay",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "advertisement",
+            "model": {
+                "adType": "horizontal"
+            },
+            "incrementedType": "mid_1"
+        },
+        {
+            "type": "montana",
+            "content": [
+                {
+                    "title": "Lego's CEO on the business case for play",
+                    "href": "/worklife/article/20240725-legos-ceo-on-the-business-case-for-play",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "features",
+                        "lastUpdated": 1721923904000,
+                        "firstUpdated": 1721923904000,
+                        "topics": [
+                            "Worklife"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "As digital innovation reshapes the toy market, the BBC's Executive Lounge meets with Lego's Chief Executive, Niels B Christiansen.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/images/ic/1920xn/p0jdk1b8.jpg",
+                                "altText": "Niels B Christiansen (Credit: BBC/ Klawe Rzeczy)",
+                                "width": 1920,
+                                "height": 1080
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:pubpipe:wwverticals:article:worklife/article/20240725-legos-ceo-on-the-business-case-for-play"
+                }
+            ],
+            "collectionId": "0dcffdd7-5bf4-4026-98d6-7107cf752143",
+            "sectionTitleProps": {
+                "link": "https://www.bbc.com/business/executive-lounge",
+                "linkType": "internal"
+            },
+            "paginationData": {
+                "page": 0,
+                "pageSize": 1,
+                "total": 16
+            },
+            "title": "Executive Lounge ",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "nevada",
+            "content": [
+                {
+                    "title": "Actors go on strike over video games AI threat",
+                    "href": "/news/articles/c4ngy53qyq8o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721969068000,
+                        "firstUpdated": 1721966478000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The union has been in talks with big games studios, like Activision and Walt Disney, for 18 months.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1825/live/85a9a7f0-4b06-11ef-929b-397ea8ee9ca4.jpg",
+                                "altText": "Scene from Activision's Call of Duty: Black Ops 6. ",
+                                "width": 2745,
+                                "height": 1544
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c4ngy53qyq8o"
+                },
+                {
+                    "title": "What's behind the global self-storage boom?",
+                    "href": "/news/articles/c722xdddl4po",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721949462000,
+                        "firstUpdated": 1721949462000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Rising rents, e-commerce and available property are contributing to a boom in self-storage.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9524/live/5c526b30-3dcd-11ef-942f-576843d80371.jpg",
+                                "altText": "A woman pulls up the door of a self-storage locker",
+                                "width": 2214,
+                                "height": 1246
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c722xdddl4po"
+                },
+                {
+                    "title": "One in four Eurostar trains cancelled after arson attacks",
+                    "href": "/news/articles/cn059xxp03ko",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721994981000,
+                        "firstUpdated": 1721994981000,
+                        "topics": [
+                            "Europe"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "France's transport minister blames disruptions on \"co-ordinated malicious acts\" on high-speed rail lines.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1b8c/live/1a0cdde0-4b5c-11ef-b2d2-cdb23d5d7c5b.jpg",
+                                "altText": "Crowds queuing at St Pancras station",
+                                "width": 1000,
+                                "height": 563
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cn059xxp03ko"
+                },
+                {
+                    "title": "UK chancellor set to reveal shortfall of billions",
+                    "href": "/news/articles/cydv2v3170eo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721988695000,
+                        "firstUpdated": 1721963538000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The chancellor will unveil a public spending hole on Monday, which speculation suggests could hit \u00a320bn.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2db5/live/eb2c1570-4b26-11ef-8f0f-0577398c3339.jpg",
+                                "altText": "Rachel Reeves sits at a desk with empty chairs beside her. She's leaning forward and appears to be listening and is holding a piece of A4 paper",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cydv2v3170eo"
+                },
+                {
+                    "title": "ChatGPT reveals search feature in Google challenge  ",
+                    "href": "/news/articles/c897qz1qex9o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721939496000,
+                        "firstUpdated": 1721937015000,
+                        "topics": []
+                    },
+                    "tags": [],
+                    "description": "OpenAI is working on adding new search powers to its artificial intelligence (AI) bot.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6255/live/7875d530-4abc-11ef-bb49-a36eaef82210.jpg",
+                                "altText": "a woman in a red cardigan looks at her phone",
+                                "width": 2121,
+                                "height": 1193
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c897qz1qex9o"
+                },
+                {
+                    "title": "Southwest scraps unassigned seating after 50 years",
+                    "href": "/news/articles/cmj2prz1e28o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721926313000,
+                        "firstUpdated": 1721926313000,
+                        "topics": [
+                            "US & Canada"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Airline's chief says it must \"unlock new sources of revenue\" after profits tumbled almost 50% in last quarter.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d9da/live/5f5e3640-4a9f-11ef-b7e5-29f47be8e120.jpg",
+                                "altText": "A ramp agent directs a Southwest Airlines Boeing 737-800 airplane in to a gate at Baltimore-Washington Airport (BWI) in Baltimore, Maryland, US, on Friday, April 12, 2024.",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cmj2prz1e28o"
+                }
+            ],
+            "collectionId": "daa2a2f9-0c9e-4249-8234-bae58f372d82",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 6,
+                "total": 40
+            },
+            "title": "More news ",
+            "disableAutoPlay": false,
+            "adBlock": {
+                "type": "advertisement",
+                "model": {
+                    "adType": "vertical"
+                },
+                "incrementedType": "sid_2"
+            },
+            "innerCollections": []
+        },
+        {
+            "type": "texas",
+            "content": [
+                {
+                    "title": "Key moments from former Post Office chief's three-day testimony",
+                    "href": "/news/videos/cm55v9v2m7xo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716567998000,
+                        "firstUpdated": 1716486194000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Paula Vennells faced three days of questions about her role in the wrongful prosecution of hundreds of sub-postmasters.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/54e4/live/035d09e0-19ec-11ef-80aa-699d54c46324.jpg",
+                                "altText": "Paula Vennells at the Post Office inquiry",
+                                "width": 1915,
+                                "height": 1077
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cm55v9v2m7xo"
+                },
+                {
+                    "title": "Ex-Post Office boss cries while giving evidence",
+                    "href": "/news/business-69047667",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1716379536000,
+                        "firstUpdated": 1716379536000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Ex-Post Office boss Paula Vennells is speaking about the incident for the first time in ten years.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9761/production/_133335783_p0hzjblc.jpg",
+                                "altText": "Paula Vennells reaching for a tissue in the Post Office inqiuiry",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:852fa3c6-c3bd-4c59-bf91-914fc7db6e09"
+                },
+                {
+                    "title": "Whistleblower claims Boeing supplier sent faulty parts",
+                    "href": "/news/business-68980492",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1715211659000,
+                        "firstUpdated": 1715211659000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Spirit AeroSystems supplied Boeing with faulty parts, a former quality inspector has told the BBC.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1794C/production/_133288569_p0hwvh1n.jpg",
+                                "altText": "Santiago Paredes",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:6b6e2894-2809-4f77-8575-928d18303a2f"
+                },
+                {
+                    "title": "Tatti Lashes: The school friends who built a beauty empire",
+                    "href": "/news/business-68903985",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1714519879000,
+                        "firstUpdated": 1714519879000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Charlotte Tiplady and Elliot Barton explain how together they built up their Tatti Lashes beauty empire from Liverpool.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/DB51/production/_133254165_p0hrg4ch.jpg",
+                                "altText": "Tatti Lashes",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:8c7dd70e-3502-4abb-8d88-0c790e18f0f4"
+                },
+                {
+                    "title": "Watch Ocado robots in action",
+                    "href": "/news/business-68682920",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1713834922000,
+                        "firstUpdated": 1713834922000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Ocado has added robotic arms to its newest warehouse near Luton.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/D4B5/production/_133035445_p0hmfs05.jpg",
+                                "altText": "Ocado has added robotic arms to its newest warehouse near Luton.",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:e75fcbc4-01e4-454a-b64c-4866af1ce58c"
+                },
+                {
+                    "title": "BBC World News business headlines",
+                    "href": "/news/business-11876811",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1710941332000,
+                        "firstUpdated": 1291119128000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The latest international business headlines from BBC World News.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://news.bbcimg.co.uk/media/images/66951000/jpg/_66951438_biz_heads_640x360_with_logo.jpg",
+                                "altText": "Business Headlines",
+                                "width": 640,
+                                "height": 360
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:b5c53245-c79d-e059-e040-850a02846523"
+                },
+                {
+                    "title": "'I feel survivor's guilt' says Post Office victim",
+                    "href": "/news/business-68478942",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1709640298000,
+                        "firstUpdated": 1709640298000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Former sub-postmaster Jo Hamilton told BBC Breakfast she feels \"guilt\" after settling with the government over the Horizon IT scandal.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/E6E0/production/_132840195_p0hgqbfx.jpg",
+                                "altText": "Jo Hamilton",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:16bde57c-f430-46a6-93bb-bf265ce7ec18"
+                },
+                {
+                    "title": "Watch: 'My biggest financial regret is...'",
+                    "href": "/news/business-68473711",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1709596968000,
+                        "firstUpdated": 1709596968000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "People in Kent share their finance stories ahead of Wednesday's Budget. Would you share yours?",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0AE9/production/_132839720_p0hgmddd.jpg",
+                                "altText": "Woman in sunglasses smiling while answering questions related to the Budget",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:51daafa0-8b0c-4e27-a12e-bb4f1d3a3c6b"
+                },
+                {
+                    "title": "Issa brother to step back after 'fixing' Asda",
+                    "href": "/news/business-68443077",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1709252406000,
+                        "firstUpdated": 1709252406000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Mohsin Issa, one half of the so-called \"billionaire brothers\" who own Asda, says he plans to hand over the running of the UK's third biggest supermarket.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/13ACB/production/_132778508_mohsin.jpg",
+                                "altText": "Mohsin Issa",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:83474ea4-6aa1-4f59-b5e4-3cc6349e9560"
+                },
+                {
+                    "title": "'We had to adapt our robots to the AI revolution'",
+                    "href": "/news/business-68348353",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1708473849000,
+                        "firstUpdated": 1708473849000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1413F/production/_132693228_p0hcyy8v.jpg",
+                                "altText": "Robots",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:67ef04a0-2ddf-4c5c-b2bb-8e413f4079e9"
+                },
+                {
+                    "title": "'AI won't steal your job, but people using it may'",
+                    "href": "/news/business-68283847",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1707868888000,
+                        "firstUpdated": 1707868888000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Hovhannes Avoyan, founder of picture and video editing app Picsart, shares his advice for our CEO Secrets series.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4BCB/production/_132630491_p0h9t0vy.jpg",
+                                "altText": "Picsart",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:a88e79a7-7492-4501-92c7-3f43e81afd55"
+                },
+                {
+                    "title": "'They thought it was a sex shop' - The Body Shop in the '80s",
+                    "href": "/news/business-68282606",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1707837576000,
+                        "firstUpdated": 1707837576000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Archive footage shows Dame Anita Roddick talking about her company's success, in an 1984 interview.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7871/production/_132633803_p0hbpfpx.jpg",
+                                "altText": "Picture of The Body Shop storefront in the 80s",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:ab9b9017-d523-4204-b1d2-770731ecf4ad"
+                },
+                {
+                    "title": "CCTV shows violent raid on Co-op store",
+                    "href": "/news/business-68240714",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1707393577000,
+                        "firstUpdated": 1707393577000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The retailer gave the footage to the BBC as it warned of a rise in attacks on retail staff.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/146AD/production/_132592638_p0h9r2sm.jpg",
+                                "altText": "Raid on Co-op store",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:e9275e27-6e9b-4ab7-89f3-c82e469d1f0f"
+                },
+                {
+                    "title": "Not that difficult to buy a home, says NatWest chair",
+                    "href": "/news/business-67892329",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1704452254000,
+                        "firstUpdated": 1704452254000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Sir Howard Davies says he believes it is not currently \"that difficult\" for people to get on the housing ladder.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/13AE3/production/_132211608_p0h37ft5.jpg",
+                                "altText": "Sir Howard Davies",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:f4940e43-0108-45a3-8481-4ab4f75a0447"
+                },
+                {
+                    "title": "'A viral Facebook post nearly blew up our business'",
+                    "href": "/news/business-67692431",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1702426800000,
+                        "firstUpdated": 1702426800000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Joanna Jensen, founder of skincare brand Childs Farm, shares advice for start-ups for our CEO Secrets series.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8384/production/_131986633_p0gz2kwq.jpg",
+                                "altText": "Joanna Jensen",
+                                "width": 1024,
+                                "height": 575
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:64fb93cd-6423-46cb-9001-6a2db8c33ce8"
+                },
+                {
+                    "title": "Broadband rises must be 'clearer', says Ofcom boss",
+                    "href": "/news/business-67692155",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1702379122000,
+                        "firstUpdated": 1702379122000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The regulator has plans to make mobile and broadband firms more upfront about mid-contract price rises.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3438/production/_131986331_p0gz2p1q.jpg",
+                                "altText": "Ofcom chief executive Dame Melanie Dawes",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:68056470-0c20-41e7-bb16-d60b366b2f23"
+                },
+                {
+                    "title": "'This earring helped me build my \u00a34bn business'",
+                    "href": "/news/business-67625234",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1701821200000,
+                        "firstUpdated": 1701821200000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Richard Harpin, co-founder of Homeserve, explains how an earring taught him an early business lesson.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/16168/production/_131927409_p0gt330k.jpg",
+                                "altText": "Earring",
+                                "width": 1024,
+                                "height": 575
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:dee6cec7-05b6-45b0-8eec-916581ef0bed"
+                },
+                {
+                    "title": "'Taking control of my abuse story'",
+                    "href": "/news/business-67571716",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1701389915000,
+                        "firstUpdated": 1701389915000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Olivia DeRamus set up an app in the wake of her sexual assault. Now she's ready to take on Big Tech.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/A61D/production/_131852524_p0gwpxww.jpg",
+                                "altText": "Olivia DeRamus and BBC reporter Lora Jones",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:0485b83e-4eae-4ac6-8ace-b2b0d37e8597"
+                },
+                {
+                    "title": "Take off for ground-breaking green fuel flight",
+                    "href": "/news/business-67552412",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1701172847000,
+                        "firstUpdated": 1701172847000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "It is the first transatlantic flight powered solely by alternative fuels.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/142B/production/_131836150_p0gwcgbq.jpg",
+                                "altText": "Virgin Atlantic flight",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:96b75fe0-b590-4182-b7de-bbb3bf68d182"
+                },
+                {
+                    "title": "The enzyme that chews up plastic",
+                    "href": "/news/business-67552819",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "video",
+                        "subtype": "clip news",
+                        "lastUpdated": 1701161567000,
+                        "firstUpdated": 1701161567000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Could this be the solution for recycling more plastic?",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8C71/production/_131835953_p0gw48jr.jpg",
+                                "altText": "A handful of plastic chips",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:cps:curie:asset:162c4aa6-3b74-4042-a71e-8d9de64adf72"
+                }
+            ],
+            "collectionId": "6d9d807f-e9e7-41e0-b6ac-c29a043696d5",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 20,
+                "total": 100
+            },
+            "title": "Watch",
+            "disableAutoPlay": false,
+            "innerCollections": []
+        },
+        {
+            "type": "advertisement",
+            "model": {
+                "adType": "horizontal"
+            },
+            "incrementedType": "mid_2"
+        },
+        {
+            "type": "alaska",
+            "content": [
+                {
+                    "title": "Market's last day before two-year move",
+                    "href": "/news/articles/cpv360l5rd1o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722085189000,
+                        "firstUpdated": 1722085189000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The market hall is being refurbished while at the same time asbestos is being removed from the site.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ef8e/live/57258880-4c10-11ef-9499-4ffd3097e0d3.jpg",
+                                "altText": "The windows at Barrow Market displaying colourful posters explaining that \u00a316m is being invested in the Market Hall, The Forum and public areas.",
+                                "width": 4561,
+                                "height": 2566
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cpv360l5rd1o"
+                },
+                {
+                    "title": "Cineworld to shut six branches as part of restructure",
+                    "href": "/news/articles/c6p21e7m43ro",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722082617000,
+                        "firstUpdated": 1722082617000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The cinema giant has announced six sites in the UK that it plans to close as part of a restructure.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7baa/live/1edb7450-4c09-11ef-9f97-e5014b70d73a.jpg",
+                                "altText": "Sign saying Cineworld",
+                                "width": 3500,
+                                "height": 1969
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c6p21e7m43ro"
+                },
+                {
+                    "title": "London's nightlife venues struggling, City Hall told",
+                    "href": "/news/articles/ce98m36m9lvo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722063357000,
+                        "firstUpdated": 1722063357000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Industry representatives tell the London Assembly crime and over-regulation are hampering growth.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/924f/live/88edcc70-4b74-11ef-ae05-e119f3c190c4.jpg",
+                                "altText": "Close-up on a man making a contactless payment at the pub",
+                                "width": 2116,
+                                "height": 1190
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:ce98m36m9lvo"
+                },
+                {
+                    "title": "Summer holiday getaway: How to beat the queues",
+                    "href": "/news/articles/cm520y0er0eo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1722030031000,
+                        "firstUpdated": 1722028840000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Tips to make travelling as smooth as possible, whether you\u2019re going by road, plane, train or ferry.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7a01/live/05db4150-4b65-11ef-94e8-85be4519404e.jpg",
+                                "altText": "Male member of staff in train station wearing a yellow and blue high-vis jacket, holding his arms out and holding a sign saying Paris 12:01",
+                                "width": 1024,
+                                "height": 576
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cm520y0er0eo"
+                },
+                {
+                    "title": "Drivers 'ripped off' by fuel prices, warns watchdog",
+                    "href": "/news/articles/c0kr2kdv181o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721994627000,
+                        "firstUpdated": 1721975218000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "The Competition and Markets Authority says poor competition cost British motorists \u00a31.6bn last year.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/e67d/live/b69f4c70-4ad4-11ef-bf36-2bb9b1be615c.jpg",
+                                "altText": "Young man wearing a blue striped T-shirt filling a car with petrol",
+                                "width": 2095,
+                                "height": 1179
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c0kr2kdv181o"
+                },
+                {
+                    "title": "Ex-minister brands Post Office cases 'corrupt'",
+                    "href": "/news/articles/c728kjx3rz8o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721927166000,
+                        "firstUpdated": 1721909433000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Management culture was \"insensitive and dismissive to the point of abject rudeness\", Greg Clark says.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ccf5/live/5c3bb930-4aa2-11ef-b075-9f5be32a5343.jpg",
+                                "altText": "Greg Clark wearing a suit and glasses, walking down a street in London",
+                                "width": 1534,
+                                "height": 863
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:c728kjx3rz8o"
+                },
+                {
+                    "title": "UK secures seabed land deal to boost windfarms",
+                    "href": "/news/articles/crglp32zzw2o",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721907598000,
+                        "firstUpdated": 1721862585000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "GB Energy to partner with the Crown Estate to push forward offshore windfarm projects\n",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/df31/live/46bb4200-4a49-11ef-8f0f-0577398c3339.jpg",
+                                "altText": "A man looking at a wind turbine under construction at the Seagreen Offshore Wind Farm, off the coast of Scotland",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:crglp32zzw2o"
+                },
+                {
+                    "title": "UK car firms demand more help to meet 2030 petrol ban",
+                    "href": "/news/articles/cn09pvjpzdjo",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721901066000,
+                        "firstUpdated": 1721862570000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Manufacturers say support packages are required to electric vehicles more affordable.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6dee/live/3ea63e10-49e7-11ef-aebc-6de4d31bf5cd.jpg",
+                                "altText": "A woman wearing an orange coloured coat fills up a black Fiat 500 car with diesel at a petrol station",
+                                "width": 976,
+                                "height": 549
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:cn09pvjpzdjo"
+                },
+                {
+                    "title": "Shares drop in US and Asia as AI stocks slide",
+                    "href": "/news/articles/ck5gp185n6ro",
+                    "isLiveNow": false,
+                    "metadata": {
+                        "contentType": "article",
+                        "subtype": "news",
+                        "lastUpdated": 1721891938000,
+                        "firstUpdated": 1721883124000,
+                        "topics": [
+                            "Business"
+                        ]
+                    },
+                    "tags": [],
+                    "description": "Tech stocks lead declines as investors reconsider rally fuelled by artificial intelligence.",
+                    "image": {
+                        "type": "indexImage",
+                        "model": {
+                            "blocks": {
+                                "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/94a9/live/0e474990-4a40-11ef-9745-9ba9cd6cec81.jpg",
+                                "altText": "Traders on the floor of the New York Stock Exchange.",
+                                "width": 873,
+                                "height": 491
+                            }
+                        }
+                    },
+                    "relatedUrls": [],
+                    "id": "urn:bbc:optimo:asset:ck5gp185n6ro"
+                }
+            ],
+            "collectionId": "beffe963-0dbb-4be6-9271-7b4106242d1b",
+            "sectionTitleProps": {},
+            "paginationData": {
+                "page": 0,
+                "pageSize": 9,
+                "total": 96
+            },
+            "title": "More in Business",
+            "disableAutoPlay": false,
+            "adBlock": {
+                "type": "advertisement",
+                "model": {
+                    "adType": "horizontal"
+                },
+                "incrementedType": "mid_3"
+            },
+            "innerCollections": []
+        }
+    ],
+    "hideBannerAdvert": false,
+    "isPreCurated": false,
+    "slug": "business",
+    "title": "Business",
+    "seo": {
+        "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news",
+        "description": "BBC Business brings you the latest in Business news and coverage from around the world, including tech, personal finance, companies, employment, the economy and more",
+        "openGraph": {
+            "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news",
+            "description": "BBC Business brings you the latest in Business news and coverage from around the world, including tech, personal finance, companies, employment, the economy and more"
+        },
+        "twitter": {
+            "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news",
+            "description": "BBC Business brings you the latest in Business news and coverage from around the world, including tech, personal finance, companies, employment, the economy and more"
+        },
+        "hreflang": {
+            "en-gb": "https://www.bbc.co.uk/news/business"
+        }
+    }
+}
