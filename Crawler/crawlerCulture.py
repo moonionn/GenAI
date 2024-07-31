@@ -15,6 +15,7 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 scripts = soup.find_all('script', type='application/json')
 
+# 提取並儲存 JSON 內容
 for i, script in enumerate(scripts):
     json_content = script.string.strip()
 
@@ -34,6 +35,7 @@ for i, script in enumerate(scripts):
             print(f"JSON data saved to {file_path}")
 
         extracted_data = []
+        # 提取每個 content 中的 title 和 href 並儲存成新的 JSON
         for section in culture_data.get('sections', []):
             for content in section.get('content', []):
                 title = content.get('title')

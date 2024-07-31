@@ -18,6 +18,7 @@ def extract_article_content(url):
 
 # 遍歷字典，查找包含 ex."@\"business\"," 的部分並儲存其內容
 def find_data(data, target):
+    # 遍歷字典
     if isinstance(data, dict):
         for key, value in data.items():
             if f"@\"{target}\"," in key:
