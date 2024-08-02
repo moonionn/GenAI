@@ -28,8 +28,8 @@ GenAI
 │   ├── keyword_matching.py         # 關鍵字匹配
 │   ├── tfidfCalcualtor.py          # 計算TF-IDF
 ├── Widget  # 通用function
-│   ├── fetch_article.py
-└── └── main.py
+│   └── fetch_article.py
+└── main.py
 ```
 ## 方法
 	1.	文章抓取與存儲
